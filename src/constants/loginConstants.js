@@ -1,0 +1,1 @@
+export const LOGIN_APP_SESSION_NAME = "userLoginSessionData";

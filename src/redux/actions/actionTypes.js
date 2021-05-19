@@ -1,0 +1,3 @@
+export const GET_USER_LIST = 'GET_USER_LIST';
+export const REMOVE_USER_LIST = 'REMOVE_USER_LIST';
+export const EDIT_USER_LIST = 'EDIT_USER_LIST';

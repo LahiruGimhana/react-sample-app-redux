@@ -1,0 +1,15 @@
+label{
+    size: 10px;
+}
+
+#log{
+    /* display: ; */
+    width: 600px;
+    height: auto;
+    padding: 20px 200px 80px 200px;
+}
+
+.error{
+    color:red;
+    padding-top:20px;
+}
